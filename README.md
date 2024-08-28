@@ -6,4 +6,4 @@ Class: PBP KKI
 
 Hobby: Dancing
 
-Major: Computer Science KKI
+Major: Computer Science International Class
